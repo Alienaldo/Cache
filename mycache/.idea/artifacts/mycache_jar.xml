@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mycache:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mycache_jar</output-path>
+    <root id="archive" name="mycache.jar">
+      <element id="module-output" name="mycache" />
+    </root>
+  </artifact>
+</component>
